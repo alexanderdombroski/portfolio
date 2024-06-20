@@ -25,6 +25,8 @@ Instructions for runnning npm are in the NPM-Instructions.md file.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
+* [Official Documentation](https://react.dev/)
+* [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
 
