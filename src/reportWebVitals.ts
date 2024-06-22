@@ -1,3 +1,5 @@
+// This file is for testing performance
+
 import { ReportHandler } from 'web-vitals';
 
 const reportWebVitals = (onPerfEntry?: ReportHandler) => {
