@@ -5,8 +5,13 @@ import linkedin from "./images/linkedin.svg"
 function Footer() {
     return (
         <footer>
-            <FooterIcon href="https://www.linkedin.com/in/alexander-dombroski" src={linkedin} alt="LinkedIn icon"/>
-            <FooterIcon href="https://github.com/alexanderdombroski" src={github} alt="github icon"/>
+            <p>Website made with React and TypeScript</p>
+            <p>&copy;2024</p>
+            <div>
+                <FooterIcon href="https://www.linkedin.com/in/alexander-dombroski" src={linkedin} alt="LinkedIn icon"/>
+                <FooterIcon href="https://github.com/alexanderdombroski" src={github} alt="github icon"/>
+                <p>Free icons from <a href="https://www.iconfinder.com/">iconfinder</a></p>
+            </div>
         </footer>
     );
 };
