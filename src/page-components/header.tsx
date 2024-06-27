@@ -13,9 +13,9 @@ function Nav() {
     return (
         <nav>
             <ol>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
+                <li><a href=""></a>Home</li>
+                <li><a href=""></a>Attributions?</li>
+                <li><a href=""></a>Link3</li>
             </ol>
         </nav>
     );
